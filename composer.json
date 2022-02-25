@@ -10,7 +10,7 @@
             "name": "Prushak",
             "email": "doNotKnow@gmail.com"
         }
-    ], "license":"MIT", "minimum-stability":"stable",
+    ], "license":"MIT", "minimum-stability":"def",
     "require": {
       
     }
