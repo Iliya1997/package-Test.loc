@@ -10,8 +10,8 @@
             "name": "Prushak",
             "email": "doNotKnow@gmail.com"
         }
-    ],
+    ], "license":"MIT",
     "require": {
-        "license":"MIT"
+      
     }
 }
