@@ -1,0 +1,15 @@
+{
+    "name": "tms-56/package-test.loc",
+    "autoload": {
+        "psr-4": {
+            "Tms56\\PackageTestLoc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Prushak",
+            "email": "doNotKnow@gmail.com"
+        }
+    ],
+    "require": {}
+}
